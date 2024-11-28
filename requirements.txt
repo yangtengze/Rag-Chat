@@ -1,0 +1,14 @@
+spark_ai_python
+csv
+elasticsearch==7.13.2
+text2vec
+torch 
+torchvision 
+torchaudio
+tqdm
+numpy
+sklearn
+FlagEmbedding
+faiss-gpu
+
+conda install -c pytorch -c nvidia faiss-gpu=1.9.0

@@ -4,7 +4,7 @@
 
 This is a continuously updated Rag-Chat that introduces some of the principles and source code of Rag in the LLM
 
-![es.png](https://p.cldisk.com/star3/origin/2e1374213f1790a5e9fc34a1ff5d8b6e.png)
+![es.png](./img/ES.png)
 
 ## **Get Start**
 
@@ -75,6 +75,6 @@ pip install -U requirements.txt
 
 if you are interested in Rag-Chat, ou can contact me by scanning the following QR code OR raising an issue
 
-<img  src="https://p.cldisk.com/star3/origin/4733f59846a0e7aa55b43c48cb130499.png" width="400" />
+<img  src="./img/QR_code.png" width="400" />
 
 And thank you for browsing, liking, and bookmarking. This will definitely be a great motivation for my future updates.

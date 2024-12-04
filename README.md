@@ -64,7 +64,7 @@ conda install -c pytorch -c nvidia faiss-gpu=1.9.0
 ```
 
 ```bash
-pip install -U requirements.txt
+pip install -r ./requirements.txt
 ```
 
 *Then run **`rag-chat.ipynb`** by yourself*
